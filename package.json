@@ -1,11 +1,11 @@
 {
-  "name": "projectname",
-  "author": "ORGNAME",
-  "description": "PROJECTDESCRIPTION",
+  "name": "project-nl",
+  "author": "EnzoDiazDev",
+  "description": "",
   "version": "1.0.0",
   "license": "MIT",
   "keywords": [
-    "PROJECTNAME"
+    "project-nl"
   ],
   "main": "dist/Main.js",
   "engines": {
@@ -23,15 +23,15 @@
     "test:coverage": "jest --config jest.config.json --coverage",
     "format": "eslint --fix --ext .ts ./src"
   },
-  "homepage": "https://github.com/ORGNAME/PROJECTNAME#readme",
+  "homepage": "https://github.com/EnzoDiazDev/project-nl#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ORGNAME/PROJECTNAME.git",
-    "directory": "PROJECTNAME"
+    "url": "git+https://github.com/EnzoDiazDev/project-nl.git",
+    "directory": "project-nl"
   },
   "bugs": {
-    "url": "https://github.com/ORGNAME/PROJECTNAME/issues",
-    "email": "sendto@email.com"
+    "url": "https://github.com/EnzoDiazDev/project-nl/issues",
+    "email": "enzodiazdev@gmai.com"
   },
   "devDependencies": {
     "@casualbot/jest-sonar-reporter": "^2.3.1",
